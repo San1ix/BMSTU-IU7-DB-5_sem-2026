@@ -1,0 +1,1 @@
+drop table if exists coffee_shops, deliveries, employees, ingredients, menu_items, recipes, suppliers cascade;
